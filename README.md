@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-Final-year Software Engineering student at University of Lahore, building backend systems and automation tools with Python and Flask. I've reverse-engineered APIs, built production Discord bots, and cut manual workflows down by ~80% through automation — now looking for my first full-time role as a Software Engineer.
+Software Engineering Graduate at University of Lahore, building backend systems and automation tools with Python and Flask. I've reverse-engineered APIs, built production Discord bots, and cut manual workflows down by ~80% through automation — now looking for my first full-time role as a Software Engineer.
 
-🔭 &nbsp;I'm currently working on **AI-Driven Vehicle Verification &amp; Traffic Monitoring Platform (React, Node.js, OpenCV, TensorFlow), My Final Year Project**  
+🔭 &nbsp; I had worked on **AI-Driven Vehicle Verification &amp; Traffic Monitoring Platform (React, Node.js, OpenCV, TensorFlow), My Final Year Project**  
 🌱 &nbsp;I'm currently learning **Docker, CI/CD pipelines, and cloud fundamentals, plus Kafka, RabbitMQ, and Open Telemetry**  
 👯 &nbsp;I'm looking to collaborate on **Backend/Automation Projects in Python, Flask APIs, Web Scraping Tools, or Discord Bot Integrations**  
 🤔 &nbsp;I'm looking for help with **Breaking into DevOps Practices — Docker and CI/CD in Production Settings**  
